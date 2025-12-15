@@ -186,6 +186,3 @@ Voir `design-questions.md` pour les détails complets.
 
 ---
 
-## 📧 Contact
-
-Pour toute question : recrutement@skypay.ma
